@@ -1,22 +1,6 @@
 import React from 'react'
-import { useState } from 'react';
-import ReactPlayer from 'react-player'
-import LoomPlayer from 'react-loom-player';
-import { motion } from 'framer-motion';
-import { Chrono } from 'react-chrono';
-import { FaBriefcase, FaGraduationCap, FaStar } from "react-icons/fa";
-import { AiFillPlaySquare } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa6";
 import { GrLinkedin } from "react-icons/gr";
 import { LiaYoutubeSquare } from "react-icons/lia";
-import { Tweet } from "react-tweet";
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from "@/components/ui/carousel"
 import { Instagram } from 'lucide-react';
 function footer() {
   return (
