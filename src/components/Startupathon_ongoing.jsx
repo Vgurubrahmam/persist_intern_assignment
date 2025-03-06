@@ -110,6 +110,7 @@ function Ongoing() {
           discription: "AI-based platform for detecting dating profiles on popular apps, offering users essential relationship security insights",
           deadline: "Deadline approaching! Apply by March 13, 2025!"
         }
+
       ]
   return (
     <div className='pt-20 bg-black'>
@@ -122,7 +123,7 @@ function Ongoing() {
           Ongoing Startupathon Challenges
         </motion.h1>
         <p className='italic text-lg font-normal text-[#cccccceb] text-center px-4'>Start your journey—tackle live challenges, earn equity, and lead the future.</p>
-        <ul className="flex flex-wrap justify-start  items-center w-full px-10 max-sm:px-0 ">
+        <ul className="flex flex-wrap justify-center  items-center w-full px-10 max-sm:px-0 ">
           {startupation_challenges.map((each_data, index) => (
             <li
               key={index}

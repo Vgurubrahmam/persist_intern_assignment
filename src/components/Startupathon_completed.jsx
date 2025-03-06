@@ -61,57 +61,57 @@ function Startupathon_completed() {
           fund: " $61,500"
     
         }, {
-          logo_name: "",
-          logo: "",
-          profile: "",
-          title: "",
-          stage: "",
-          description: "",
+          logo_name: "Shorts.lol",
+          logo: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/67338739292b299854742af4_shorts%20(3).png",
+          profile: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/67bd8b37bd2a506406d7521d_1664198501586-p-500.jpg",
+          title: "Vishesh Gupta",
+          stage: "Leader, Shorts.lol .",
+          description: "A cutting-edge platform for creating, sharing, and enjoying captivating short videos, designed to connect creators and audiences with ease.",
           fund: " $61,500"
     
         }, {
-          logo_name: "",
-          logo: "",
-          profile: "",
-          title: "",
-          stage: "",
-          description: "",
+          logo_name: "Delivery App",
+          logo: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/6733885f7afdc2f52de1bb87_Untitled_design__51_-removebg-preview.png",
+          profile: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/672cfa91c6e70b81508522a4_Sai%20Kumar%20kusangi%20(delivery%20app)-min-p-500.jpg",
+          title: "Sai Kumar kusangi",
+          stage: "Leader, Delivery App.",
+          description: "SaveShip: Firebase back-end, Flutter front-end, with location tracking, age verification, and secure user management.",
+          fund: "$10,500"
+    
+        }, {
+          logo_name: "AI Animator",
+          logo: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/673389db763062df2600c00f_AI%20animator%20(1).png",
+          profile: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/672cfa6c55da66b21a43ea16_Pushpak%20Hinglaspure(AI%20animator%20)-min-p-500.jpg",
+          title: "Pushpak Hinglaspure",
+          stage: "Leader, AI Animator.",
+          description: "A web app that animates two combined photos, using AI tools like Klingi or Runway ML.",
+          fund: "$10,500"
+    
+        }, {
+          logo_name: "StoneCanyon",
+          logo: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/67338a521197eca7ca30a39a_stonecan%20bg.png",
+          profile: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/67c19b2890e2f0b4bad9acd7_photo_2025-02-28_16-46-03-p-500.jpg",
+          title: "Pratham Mangla",
+          stage: "Leader, StoneCanyon.",
+          description: "AI chatbot for home improvement: captures info, answers FAQs, analyzes images, and schedules appointments.",
+          fund: "$10,500"
+    
+        }, {
+          logo_name: "Creatorship",
+          logo: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/67338b1233458c34e6c50cab_web-logo-CfLnMaci.png",
+          profile: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/672cf35a2c1f2268a7134100_Rakshit%20singh(%20influencer%20platform%20)-min-p-500.jpg",
+          title: "Rakshit Singh",
+          stage: "Leader, Creatorship.",
+          description: "AI-powered creator marketplace for seamless collaboration. Smart matching, automated media kits, real-time analytics, and equity partnerships make it the go-to for influencer marketing.",
           fund: "$61,500"
     
         }, {
-          logo_name: "",
-          logo: "",
-          profile: "",
-          title: "",
-          stage: "",
-          description: "",
-          fund: "$61,500"
-    
-        }, {
-          logo_name: "",
-          logo: "",
-          profile: "",
-          title: "",
-          stage: "",
-          description: "",
-          fund: "$61,500"
-    
-        }, {
-          logo_name: "",
-          logo: "",
-          profile: "",
-          title: "",
-          stage: "",
-          description: "",
-          fund: "$61,500"
-    
-        }, {
-          logo_name: "",
-          logo: "",
-          profile: "",
-          title: "",
-          stage: "",
-          description: "",
+          logo_name: "AIHumanRights",
+          logo: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/673390a146e51822c0731494_aihumanright-bg.png",
+          profile: "https://cdn.prod.website-files.com/623eb8c6eb9b328644ade032/673394c541c5f7993c04fc26_tanmay%20preme-p-500.jpg",
+          title: "Tanmay Premee",
+          stage: "Leader, AIHumanRights.",
+          description: "A uniquely crafted AI personality, designed to advocate for rights and amplify important issues with precision and empathy.",
           fund: "$61,500"
     
         }, {
