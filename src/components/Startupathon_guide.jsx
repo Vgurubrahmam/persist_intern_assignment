@@ -97,7 +97,7 @@ function Startupathon_guide() {
             <div className="m-10 border p-2 border-[#8b62f3] rounded-lg w-fit hidden sm:block">
               <LoomPlayer
                 src="https://www.loom.com/share/0847b9257f144fd0830a8536dfbc8e81?sid=a30f65f8-30a7-4dfc-8fef-3cff2739fb44"
-                autoplay
+                autoPlay
                 style={{ width: "700px", height: "400px" }}
               />
             </div>
@@ -106,7 +106,7 @@ function Startupathon_guide() {
             <div className="m-10 border p-2 border-[#8b62f3] rounded-lg w-fit sm:hidden">
               <LoomPlayer
                 src="https://www.loom.com/share/0847b9257f144fd0830a8536dfbc8e81?sid=a30f65f8-30a7-4dfc-8fef-3cff2739fb44"
-                autoplay
+                autoPlay
                 style={{ width: "300px", height: "150px" }}
               />
             </div>
